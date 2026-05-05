@@ -1,0 +1,16 @@
+{
+  "name": "ExtensionToLockShorts",
+  "version": "1.0.0",
+  "description": "Chrome extension to hide YouTube Shorts",
+  "main": "src/background.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": ["youtube", "shorts", "extension"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  }
+}
